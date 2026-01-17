@@ -1,0 +1,6 @@
+DOCKER : DOCKER is contanierization Platfrom where we can application & dependincies we will pack together & we can run at anywhere.
+
+Container: Docker container is img ruuning insatnce where application & dependcies are present there
+
+Image is a read only template where app & depencies are present there.
+
